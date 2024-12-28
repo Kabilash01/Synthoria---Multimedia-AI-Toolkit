@@ -1,6 +1,7 @@
-Here is the README in markdown format for your GitHub repository:
+Here's a detailed README for your Synthoria project based on our chat:
 
-```markdown
+---
+
 # Synthoria - Multimedia AI Toolkit
 
 Synthoria is a powerful multimedia AI toolkit that integrates a variety of advanced features for generating, enhancing, and manipulating images, videos, and audio. This project provides an all-in-one solution for creating stunning visuals, video content, and personalized audio using the latest AI technologies.
@@ -118,7 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Hugging Face**: For providing various pretrained models for text-to-image and text-to-video generation.
 - **Google Gemini**: For providing the chatbot API.
 - **PyQt5**: For building the GUI.
-```
 
 ---
 
+This README provides a comprehensive guide to using the features in the Synthoria project. Let me know if you'd like any changes or additional information!
