@@ -1,0 +1,11 @@
+PyQt5==5.15.7
+torch==1.13.1
+opencv-python==4.7.0.72
+Pillow==9.2.0
+diffusers==0.10.2
+transformers==4.30.2
+image-eraser==0.1.0  # Ensure this is a correct package or replace with actual importable library
+pydub==0.25.1
+gTTS==2.2.4
+google-generativeai==0.1.0  # Ensure this is a valid package or modify if needed
+ffmpeg-python==4.4
